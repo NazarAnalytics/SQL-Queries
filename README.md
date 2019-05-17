@@ -1,4 +1,5 @@
 What Can SQL do?
+
 SQL can execute queries against a database
 SQL can retrieve data from a database
 SQL can insert records in a database
